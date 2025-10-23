@@ -64,6 +64,11 @@
   src: url(../fonts/outfit-v15-latin-700.woff2);
 }
 
+h1 {
+  color: var(--stone-900);
+  font-weight: normal;
+}
+
 .text-preset-1 {
   font-family: var(--font‑family-young);
   font-size: 2.5rem;
@@ -73,12 +78,14 @@
 .text-preset-2 {
   font-family: var(--font‑family-young);
   font-size: 1.625rem;
+  font-weight: normal;
   line-height: 100%;
   letter-spacing: 0px;
 }
 .text-preset-3 {
   font-family: var(--font-family-outfit);
   font-size: 1.25rem;
+  font-weight: 600;
   line-height: 100%;
   letter-spacing: 0px;
 }
