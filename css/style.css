@@ -206,8 +206,13 @@ td + td {
     background-color: var(--stone-100);
   }
 
+  .recipe-image {
+    border-radius: 0.75rem;
+  }
+
   .width-container {
     padding: 0;
+    padding-top: 2.5rem;
   }
 
   main {
@@ -224,8 +229,13 @@ td + td {
     background-color: var(--stone-100);
   }
 
+  .recipe-image {
+    border-radius: 0.75rem;
+  }
+
   .width-container {
     padding: 0;
+    padding-top: 2.5rem;
   }
 
   main {
